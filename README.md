@@ -8,7 +8,7 @@ node.js 8.6
 
 #Licencja
 
-MIT 2.
+CC
 
 ##Autor
 
