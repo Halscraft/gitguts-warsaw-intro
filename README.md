@@ -8,7 +8,7 @@ node.js 8.6
 
 #Licencja
 
-Apache Commos 2.
+MIT 2.
 
 ##Autor
 
