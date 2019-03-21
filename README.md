@@ -8,7 +8,7 @@ node.js 8.6
 
 #Licencja
 
-Apache Commos 2.
+Apache Commos 2 to licencja fajna.
 
 ##Autor
 
