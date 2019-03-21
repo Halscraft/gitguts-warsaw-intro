@@ -12,4 +12,4 @@ CC
 
 ##Autor
 
-Ten projekt jest tworzony przez mnie :) 
+infoShare Academy
